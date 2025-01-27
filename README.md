@@ -4,7 +4,7 @@
 ![Preview dark](assets/captures/desktop-dark.png)
 
 ## 📌 Sobre o Projeto
-Este projeto é uma landing page responsiva criada utilizando **HTML, CSS e JavaScript**.
+Este projeto é uma página responsiva criada utilizando **HTML, CSS e JavaScript**.
 
 ## 🌐 Acesse o Projeto
 🔗 [Clique aqui para visualizar a página online](https://higorantonio.github.io/personal-link-aggregator/)
